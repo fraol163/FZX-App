@@ -48,6 +48,14 @@ FZX is an AI-powered personal assistant developed by Fraol Teshome that combines
 4. Enable "Install from Unknown Sources" if prompted
 5. Install and enjoy the FZX experience
 
+
+If You don't have git installed on your operating system 
+1. Go to  this website https://git-scm.com/downloads
+2. Download and install Git
+3. After Finishing Installation
+4. Go to Window terminal and type git clone https://github.com/fraol163/FZX-App.git then hit enter
+5.  Then Wait for it and you are done....
+
  🍎 iOS (COMING SOON)
 
 - Will be available on the App Store
