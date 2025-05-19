@@ -56,6 +56,8 @@ If You don't have git installed on your operating system
 4. Go to Window terminal and type git clone https://github.com/fraol163/FZX-App.git then hit enter
 5.  Then Wait for it and you are done....
 
+
+ NB:  The email verification is sent to  spam folder for now 
  🍎 iOS (COMING SOON)
 
 - Will be available on the App Store
